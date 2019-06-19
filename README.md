@@ -20,13 +20,8 @@
             the TCP connection to the server and waits for the server to send an
                 HTTP request back.
         
-        -When browser recieves the response it displays it, in the case of
-            webserver1.py it displays a "Hello, Word!"
+        -When browser recieves the response it displays it
             
-        
-# How client and server establish a TCP connection before sending HTTP requests and responses.
-
-    -To do that they both use so-called sockets
     
 
 
